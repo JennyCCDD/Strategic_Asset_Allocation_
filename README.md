@@ -11,7 +11,7 @@ This is a program for strategic asset allocation research for negative investmen
 
 [VaR系列（一）：HS,WHS,RM方法估计VaR](http://mp.weixin.qq.com/s?__biz=MzU5NDY0NDM2NA%3D%3D&chksm=fe7f5d23c908d435fd69315b252ec08b72294754eb13ce884a2a5ba5678b6ed76b540889e6b6&idx=1&mid=2247483840&scene=21&sn=f4af3de6e389047ee46b28e37f6cbe76#wechat_redirect) 
 
-**诺德基金徐浩天《基于宏观场景分析的大类资产配置策略》**
+诺德基金徐浩天《基于宏观场景分析的大类资产配置策略》
 
 欢迎关注二幺子的知识输出通道：
 
