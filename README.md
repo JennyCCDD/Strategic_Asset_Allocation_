@@ -7,13 +7,11 @@ This is a program for strategic asset allocation research for negative investmen
 
 **Reference:** 
 
-**[资产瞎配模型（三）：风险平价及其优化](https://mp.weixin.qq.com/s?__biz=MzU5NDY0NDM2NA%3D%3D&chksm=fe7f5852c908d144ad581cf823f0e505c5fd8ff4c2a01893bd00050faf3326ca6ecb2423e86b&idx=1&mid=2247484593&scene=21&sn=e80d40c29ca56696f2291194eeccec59#wechat_redirect) **
+[资产瞎配模型（三）：风险平价及其优化](https://mp.weixin.qq.com/s?__biz=MzU5NDY0NDM2NA%3D%3D&chksm=fe7f5852c908d144ad581cf823f0e505c5fd8ff4c2a01893bd00050faf3326ca6ecb2423e86b&idx=1&mid=2247484593&scene=21&sn=e80d40c29ca56696f2291194eeccec59#wechat_redirect) 
 
-**[VaR系列（一）：HS,WHS,RM方法估计VaR](http://mp.weixin.qq.com/s?__biz=MzU5NDY0NDM2NA%3D%3D&chksm=fe7f5d23c908d435fd69315b252ec08b72294754eb13ce884a2a5ba5678b6ed76b540889e6b6&idx=1&mid=2247483840&scene=21&sn=f4af3de6e389047ee46b28e37f6cbe76#wechat_redirect) **
+[VaR系列（一）：HS,WHS,RM方法估计VaR](http://mp.weixin.qq.com/s?__biz=MzU5NDY0NDM2NA%3D%3D&chksm=fe7f5d23c908d435fd69315b252ec08b72294754eb13ce884a2a5ba5678b6ed76b540889e6b6&idx=1&mid=2247483840&scene=21&sn=f4af3de6e389047ee46b28e37f6cbe76#wechat_redirect) 
 
 **诺德基金徐浩天《基于宏观场景分析的大类资产配置策略》**
-
-**项目Github链接:** **[Strategic_Asset_Allocation_](https://github.com/JennyCCDD/Strategic_Asset_Allocation_)**
 
 欢迎关注二幺子的知识输出通道：
 
